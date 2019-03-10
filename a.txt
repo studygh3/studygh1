@@ -1,0 +1,11 @@
+a-orphan
+A
+<<<<<<< HEAD
+B
+=======
+s2-新增
+<<<<<<< HEAD
+>>>>>>> origin/fz1X1
+=======
+s2再次新增
+>>>>>>> origin/fz1X1
